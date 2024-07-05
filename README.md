@@ -9,11 +9,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Pugls-Dev/Pugls-Dev/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">

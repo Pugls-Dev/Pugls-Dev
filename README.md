@@ -33,4 +33,4 @@
 
 ###
 
-[![](https://dcbadge.limes.pink/api/server/INVITE)](https://discord.gg/Pugls)
+[![](https://dcbadge.limes.pink/api/server/https://discord.gg/pugls)](https://discord.gg/pugls)
